@@ -1,0 +1,5 @@
+Penjelasa program:
+
+1. Menggunakan bahasa pemrograman PHP dengan framework CI3
+2. Pengaturan database terdapat pada file application\config\database.php
+3. Database menggunakan MariaDB (bisa menggunakan mysql, karena memiliki library sama untuk CI3)
